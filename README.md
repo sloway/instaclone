@@ -4,10 +4,10 @@ Instagram clone coding by nomadcode course
 # 1 THANK YOU
 ### 1.0 🚨 Read this First 🚨 :heavy_check_mark:
 ### 1.1 Thank You! :heavy_check_mark:
-### 2 INTRODUCTION
+# 2 INTRODUCTION
 ### 2.0 Welcome! (02:02)
 ### 2.1 Requirements (02:12)
-### 3 BACKEND SETUP
+# 3 BACKEND SETUP
 ### 3.0 Setup (05:00)
 ### 3.1 Apollo Server (06:44)
 ### 3.2 Babel (08:24)
@@ -21,7 +21,7 @@ Instagram clone coding by nomadcode course
 ### 3.10 Architecture part Two (08:51)
 ### 3.11 Dotenv (04:22)
 ### 3.12 Recap (08:20)
-### 4 USER MODULE
+# 4 USER MODULE
 ### 4.0 Create Account part One (10:26)
 ### 4.1 Create Account part Two (10:51)
 ### 4.2 Create Account part Three (12:56)
@@ -52,10 +52,10 @@ Instagram clone coding by nomadcode course
 ### 4.27 Computed Fields part Two (10:15)
 ### 4.28 Computed Fields part Three (06:39)
 ### 4.29 Searching Users (07:18)
-### 5 TS SETUP
+# 5 TS SETUP
 ### 5.0 TS Setup part One (07:58)
 ### 5.1 TS Setup part Two (09:07)
-### 6 PHOTOS MODULE
+# 6 PHOTOS MODULE
 ### 6.0 Photos Model (07:58)
 ### 6.1 Prisma Fields vs SQL Fields (03:19)
 ### 6.2 Upload Photo part One (11:55)
@@ -78,7 +78,7 @@ Instagram clone coding by nomadcode course
 ### 6.19 S3 Photo Upload (09:25)
 ### 6.20 S3 Photo Upload part Two (10:34)
 ### 6.21 S3 Photo Upload part Three (05:38)
-### 7 DIRECT MESSAGES
+# 7 DIRECT MESSAGES
 ### 7.0 Introduction (03:50)
 ### 7.1 Models (04:41)
 ### 7.2 seeRooms (06:26)
@@ -92,7 +92,7 @@ Instagram clone coding by nomadcode course
 ### 7.10 Filtering Subscriptions part Two (06:09)
 ### 7.11 Authenticating Subscriptions (15:51)
 ### 7.12 Recap (08:29)
-### 8 [🔥2022 UPDATE] REACT ROUTER V6
+# 8 [🔥2022 UPDATE] REACT ROUTER V6
 ### 8.0 Update Introduction (02:54)
 ### 8.1 BrowserRouter (06:33)
 ### 8.2 createBrowserRouter (08:12)
@@ -102,7 +102,7 @@ Instagram clone coding by nomadcode course
 ### 8.6 Outlet (05:44)
 ### 8.7 useOutletContext (06:18)
 ### 8.8 Extras (08:02)
-### 9 FRONTEND SETUP
+# 9 FRONTEND SETUP
 ### 9.0 Create React App (05:04)
 ### 9.1 Installing All (06:08)
 ### 9.2 What Does Setup Mean? (02:48)
@@ -113,11 +113,11 @@ Instagram clone coding by nomadcode course
 ### 9.7 Introduction to Styled Components (12:17)
 ### 9.8 Themes on Styled Components (07:33)
 ### 9.9 GlobalStyles on Styled Components (06:23)
-### 10 FRONTEND TS SETUP
+# 10 FRONTEND TS SETUP
 ### 10.0 Styled Components (08:27)
 ### 10.1 React Hook Form (04:42)
 ### 10.2 GraphQL (12:46)
-### 11 LOGIN AND SIGNUP
+# 11 LOGIN AND SIGNUP
 ### 11.0 Introduction (02:47)
 ### 11.1 Login UI Clone (18:40)
 ### 11.2 Cleaning Login Code (13:50)
@@ -133,7 +133,7 @@ Instagram clone coding by nomadcode course
 ### 11.12 Create Account (14:23)
 ### 11.13 Redirecting Users (08:01)
 ### 11.14 Dark Mode (08:24)
-### 12 FEED
+# 12 FEED
 ### 12.0 Header and Layout (08:11)
 ### 12.1 Header part Two (10:24)
 ### 12.2 Header part Three (12:16)
@@ -154,7 +154,7 @@ Instagram clone coding by nomadcode course
 ### 12.17 Create Comment part Two (12:22)
 ### 12.18 Create Comment part Three (07:59)
 ### 12.19 Delete Comment (12:17)
-### 13 PROFILE
+# 13 PROFILE
 ### 13.0 useParams (08:40)
 ### 13.1 Queries and Fragments (11:26)
 ### 13.2 keyFields (08:42)
@@ -164,7 +164,7 @@ Instagram clone coding by nomadcode course
 ### 13.6 Follow Unfollow part Four (09:49)
 ### 13.7 Follow Unfollow part Five (04:39)
 ### 13.8 Web Conclusions (02:42)
-### 14 REACT NATIVE SETUP
+# 14 REACT NATIVE SETUP
 ### 14.0 Introduction (02:23)
 ### 14.1 Why Expo is Awesome (12:45)
 ### 14.2 Why Expo Sucks (08:37)
@@ -173,7 +173,7 @@ Instagram clone coding by nomadcode course
 ### 14.5 Working with the Simulator (04:01)
 ### 14.6 AppLoading (10:06)
 ### 14.7 AppLoading part Two (05:36)
-### 15 AUTHENTICATION
+# 15 AUTHENTICATION
 ### 15.0 Your First Navigation (06:39)
 ### 15.1 Moving Through Screens (09:06)
 ### 15.2 Navigator Props (11:43)
@@ -191,141 +191,75 @@ Instagram clone coding by nomadcode course
 ### 15.14 AsyncStorage part One (07:00)
 ### 15.15 AsyncStorage part Two (07:04)
 ### 15.16 Recap (05:04)
-### 16 FEED
-
+# 16 FEED
 ### 16.0 Tab Navigator (12:58)
-
 ### 16.1 Tab Navigator part Two (06:55)
-
 ### 16.2 Stack and Tabs (14:04)
-
 ### 16.3 Stack and Tabs part Two (07:04)
-
 ### 16.4 Apollo Auth (10:17)
-
 ### 16.5 FlatList (13:24)
-
 ### 16.6 Photo part One (12:48)
-
 ### 16.7 Photo part Two (11:50)
-
 ### 16.8 Photo part Three (09:26)
-
 ### 16.9 Pull to Refresh (07:01)
-
 ### 16.10 Infinite Scrolling part One (08:52)
-
 ### 16.11 Infinite Scrolling part One (09:37)
-
 ### 16.12 Cache Persist (11:34)
-
 ### 16.13 Conclusions (02:37)
-### 17 LIKES, SEARCH AND PHOTO
-
+# 17 LIKES, SEARCH AND PHOTO
 ### 17.0 Likes part One (16:17)
-
 ### 17.1 Likes part Two (11:40)
-
 ### 17.2 Header Domination (07:16)
-
 ### 17.3 Search part One (10:21)
-
 ### 17.4 Search part Two (06:50)
-
 ### 17.5 Search part Three (12:25)
-
 ### 17.6 Search part Four (09:00)
-
 ### 17.7 Photo Screen (13:29)
-### 18 UPLOAD PHOTO
-
+# 18 UPLOAD PHOTO
 ### 18.0 Modal Navigator (10:40)
-
 ### 18.1 Bottom Tabs Navigator (09:14)
-
 ### 18.2 Select Photo part One (06:57)
-
 ### 18.3 Select Photo part Two (12:05)
-
 ### 18.4 Select Photo part Three (10:21)
-
 ### 18.5 Select Photo part Four (06:30)
-
 ### 18.6 Take Photo part One (13:05)
-
 ### 18.7 Take Photo part Two (12:09)
-
 ### 18.8 Take Photo part Three (08:28)
-
 ### 18.9 Take Photo part Four (07:06)
-
 ### 18.10 Take Photo part Five (12:14)
-
 ### 18.11 Take Photo part Six (06:56)
-
 ### 18.12 Upload Screen part One (12:01)
-
 ### 18.13 Upload Screen part Two (12:06)
-
 ### 18.14 Upload Screen part Three (13:47)
-
 ### 18.15 Upload Screen part Four (10:42)
-
 ### 18.16 Conclusions (01:21)
-### 19 DIRECT MESSAGES
-
+# 19 DIRECT MESSAGES
 ### 19.0 Messages Navigator (10:33)
-
 ### 19.1 Rooms Screen part One (11:51)
-
 ### 19.2 Rooms Screen part Two (11:49)
-
 ### 19.3 Room Screen part One (11:54)
-
 ### 19.4 Room Screen part Two (09:20)
-
 ### 19.5 Room Screen part Three (09:09)
-
 ### 19.6 Room Screen part Four (14:30)
-
 ### 19.7 Room Screen part Five (07:17)
-
 ### 19.8 Room Screen part Six (09:29)
-
 ### 19.9 Subscriptions part One (07:36)
-
 ### 19.10 Subscriptions part Two (08:57)
-
 ### 19.11 Subscriptions part Three (08:25)
-
 ### 19.12 Subscriptions part Four (10:03)
-
 ### 19.13 Conclusions (03:54)
-### 20 DEPLOYMENT
-
+# 20 DEPLOYMENT
 ### 20.0 Building the Server (09:34)
-
 ### 20.1 Deploy to Heroku part One (07:04)
-
 ### 20.2 Deploy to Heroku part Two (06:54)
-
 ### 20.3 Configuring Databases (12:05)
-
 ### 20.4 Migrating (08:15)
-
 ### 20.5 Deploy Frontend (09:28)
-
 ### 20.6 Building the App (12:15)
-
 ### 20.7 Building Conclusions (04:54)
-### 21 EJECT AND REACT NATIVE CLI
-
+# 21 EJECT AND REACT NATIVE CLI
 ### 21.0 Ejecting from Expo (13:33)
-
 ### 21.1 Ejecting from Expo part Two (11:37)
-
 ### 21.2 Ejecting Conclusions (08:39)
-
 ### 21.3 React Native CLI (11:36)
-
 ### 21.4 Conclusions (01:31)
