@@ -18,7 +18,7 @@ Instagram clone coding by nomadcode course
 
 ### 3.0 Setup (05:00) :heavy_check_mark:
 
-### 3.1 Apollo Server (06:44)
+### 3.1 Apollo Server (06:44) :heavy_check_mark:
 
 ### 3.2 Babel (08:24)
 

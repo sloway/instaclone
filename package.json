@@ -4,7 +4,7 @@
   "description": "Instagram clone coding by nomadcode course",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon --exec ts-node src/index --ext ts,js"
+    "dev": "nodemon --exec ts-node src/server.mjs --ext ts,js,mjs"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,9 @@
     "nodemon": "^2.0.20",
     "ts-node": "^10.9.1",
     "typescript": "^4.9.3"
+  },
+  "dependencies": {
+    "@apollo/server": "^4.7.0",
+    "graphql": "^16.6.0"
   }
 }
